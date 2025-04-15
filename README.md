@@ -7,7 +7,8 @@
 
 This is the official repository of the RopeTP.
 
-https://github.com/user-attachments/files/19759401/arc.pdf
+# Method
+![Image](https://github.com/user-attachments/assets/4472d621-1fb1-4c6b-a155-2ccfa5a8532c)
 
 # News :triangular_flag_on_post:
 
