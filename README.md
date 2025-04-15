@@ -16,7 +16,7 @@ This is the official repository of the RopeTP.
 # News :triangular_flag_on_post:
 
 - [2024/10/30] **RopeTP is on [arXiv](https://arxiv.org/abs/2410.20358) now.**
-- [2024/09/20] **RopeTP got accepted by RopeTP 2025!** 🎉
+- [2024/09/20] **RopeTP got accepted by WACV 2025!** 🎉
 
 ## To-Do list 📝
 - [x] Repo
