@@ -5,9 +5,12 @@
 
 > *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025*
 
+![Image](https://github.com/user-attachments/assets/ebbae6ad-6638-450f-b7f8-e3e8a21946ca)
+
 This is the official repository of the RopeTP.
 
 # Method
+
 ![Image](https://github.com/user-attachments/assets/519050e3-6590-45f7-8602-0230c53ab979)
 
 # News :triangular_flag_on_post:
@@ -23,3 +26,5 @@ This is the official repository of the RopeTP.
 ## Requirements 🎉
 
 Code Coming Soon !
+
+# Video
