@@ -7,6 +7,8 @@
 
 This is the official repository of the RopeTP.
 
+https://github.com/user-attachments/files/19759401/arc.pdf
+
 # News :triangular_flag_on_post:
 
 - [2024/10/30] **RopeTP is on [arXiv](https://arxiv.org/abs/2410.20358) now.**
