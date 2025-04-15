@@ -28,3 +28,14 @@ Code Coming Soon !
 # Video
 
 https://github.com/user-attachments/assets/0f3e9dd8-6052-46ea-b0af-df8b6a8485bd
+
+## Citation
+```
+@inproceedings{liang2025ropetp,
+  title={Ropetp: Global human motion recovery via integrating robust pose estimation with diffusion trajectory prior},
+  author={Liang, Mingjiang and Cheng, Yongkang and Liang, Hualin and Huang, Shaoli and Liu, Wei},
+  booktitle={2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  pages={2973--2982},
+  year={2025},
+  organization={IEEE}
+}
