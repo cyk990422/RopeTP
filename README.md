@@ -8,7 +8,7 @@
 This is the official repository of the RopeTP.
 
 # Method
-![Image](https://github.com/user-attachments/assets/4472d621-1fb1-4c6b-a155-2ccfa5a8532c)
+![arc.pdf](https://github.com/user-attachments/files/19759425/arc.pdf)
 
 # News :triangular_flag_on_post:
 
